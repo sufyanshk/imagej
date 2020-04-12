@@ -14,5 +14,5 @@ This will sharpen the opened image.
 This macro is under development where I want to creat a button on the toolbar of ImageJ.
 
 # Disclaimer
-No copyright infringement intended. These codes are not associated with ImageJ.\
-You can modify them but do it at your own risk. ImageJ can be downloaded from its official [website](https://imagej.nih.gov/ij/download.html).
+No copyright infringement intended. These codes are not associated with ImageJ. You can modify them but do it at your own risk.  
+ImageJ can be downloaded from its official [website](https://imagej.nih.gov/ij/download.html).
