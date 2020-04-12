@@ -1,6 +1,5 @@
 # Macros and Plugins for ImageJ
-These are going to be my list of macros and plugins for ImageJ. I'll be developing them as and when require.  
-Copy these in the `/macros/StarupMacros.txt` file so that they will be loaded when ImageJ starts up.
+These are going to be my list of macros and plugins for ImageJ. I'll be developing them as and when require. Copy these in the `/macros/StarupMacros.txt` file so that they will be loaded when ImageJ starts up.
 
 * GridPlot.txt  
 The default macro of generating grid on the ImageJ does not create a grid which is initialised at the origin. This macro creates girds of horizontal and vertical lines which is initialised at the origin of the image.
