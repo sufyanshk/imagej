@@ -1,7 +1,7 @@
 # Macros and Plugins for ImageJ
 These are going to be my list of macros and plugins for ImageJ. I'll be developing them as and when require. Copy these in the `/macros/StarupMacros.txt` file so that they will be loaded when ImageJ starts up.
 
-* GridPlot.txt  
+* `GridPlot.txt`  
 The default macro of generating grid on the ImageJ does not create a grid which is initialised at the origin. This macro creates girds of horizontal and vertical lines which is initialised at the origin of the image.
 	* Add this to `/macros/StarupMacros.txt` file.
 	* Restart ImageJ.
@@ -9,7 +9,7 @@ The default macro of generating grid on the ImageJ does not create a grid which 
 
 By default it creates a `10X10` grid which can be changed by editing the line `nLines = 10`.
 
-* Sharpening.ijm.rtf  
+* `Sharpening.ijm.rtf`  
 This will sharpen the opened image.  
 This macro is under development where I want to creat a button on the toolbar of ImageJ.
 
