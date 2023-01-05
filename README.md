@@ -16,3 +16,5 @@ This macro is under development where I want to creat a button on the toolbar of
 # Disclaimer
 No copyright infringement intended. These codes are not associated with ImageJ. You can modify them but do it at your own risk.  
 ImageJ can be downloaded from its official [website](https://imagej.nih.gov/ij/download.html).
+
+ImageJ is an excellent tool for converting images from one format to another.
